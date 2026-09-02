@@ -1,0 +1,3 @@
+Add your architecture diagram here as architecture.png.
+Simple flow to draw: Traffic Simulator -> Feature Extractor -> Detector (Rules + ML) -> Alerts -> Dashboard.
+You can draw this in draw.io, Excalidraw, or PowerPoint in under 10 minutes.
